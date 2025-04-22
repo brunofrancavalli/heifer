@@ -1,2 +1,2 @@
-const name = "Bruno";
-console.log(`moo! ${name}`);
+const myName = "Bruno";
+console.log(`moo! ${myName}`);
