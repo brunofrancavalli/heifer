@@ -1,3 +1,4 @@
 import { moo } from "./moo.js";
-const myName = "Bruno";
+
+const myName = "moo";
 console.log(moo(myName));
